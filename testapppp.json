@@ -14,7 +14,7 @@
 	},	
 	"menus": [
 		{
-			"name": "All Mods",
+			"name": "All Stores",
 			"type": "url",
 			"icon": "https://blendforge.apps.gen.tr/roblox/brookhavenrbx/assets/home.png",
 			"url": "https://app.com.tc/mods/sam-stores-near-me/",
