@@ -14,7 +14,7 @@
 	},	
 	"menus": [
 		{
-			"name": "Sam Store Near Me",
+			"name": "Stores Near Me",
 			"type": "url",
 			"icon": "https://apps.gen.tr/mikkolaltd/samstr/assets/home.png",
 			"url": "https://app.com.tc/mods/sam-stores-near-me/",
