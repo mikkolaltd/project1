@@ -1,7 +1,7 @@
 {
 	"app": {
 		"status": true,
-		"toolbar": true,
+		"toolbar": false,
 		"navigation_drawer": true,
 		"geolocation": false,
 		"cache": false,
@@ -14,11 +14,18 @@
 	},	
 	"menus": [
 		{
-			"name": "Sam Store Locations",
+			"name": "Sam Store Near Me",
 			"type": "url",
 			"icon": "https://apps.gen.tr/mikkolaltd/samstr/assets/home.png",
 			"url": "https://app.com.tc/mods/sam-stores-near-me/",
 			"url_dark": "https://app.com.tc/mods/sam-stores-near-me/"
+		},
+		{
+			"name": "Sam Store Online",
+			"type": "url",
+			"icon": "https://apps.gen.tr/mikkolaltd/samstr/assets/home.png",
+			"url": "https://www.samash.com/",
+			"url_dark": "https://www.samash.com/"
 		},
 		{
 			"name": "Privacy Policy",
