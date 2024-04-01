@@ -21,11 +21,25 @@
 			"url_dark": "http://app.com.tc/test/whattoeat/dinner/"
 		},
 		{
-			"name": "Sam Store Online",
+			"name": "Restaurant You Eat At/",
 			"type": "url",
 			"icon": "https://apps.gen.tr/mikkolaltd/samstr/assets/home.png",
-			"url": "https://www.samash.com/",
-			"url_dark": "https://www.samash.com/"
+			"url": "http://app.com.tc/test/whattoeat/restaurant-you-eat-at/",
+			"url_dark": "http://app.com.tc/test/whattoeat/restaurant-you-eat-at/"
+		},
+		{
+			"name": "Weird Food",
+			"type": "url",
+			"icon": "https://apps.gen.tr/mikkolaltd/samstr/assets/home.png",
+			"url": "http://app.com.tc/test/whattoeat/weird-food/",
+			"url_dark": "http://app.com.tc/test/whattoeat/weird-food/"
+		},
+		{
+			"name": "Your Spirit Food",
+			"type": "url",
+			"icon": "https://apps.gen.tr/mikkolaltd/samstr/assets/home.png",
+			"url": "http://app.com.tc/test/whattoeat/your-spirit-food/",
+			"url_dark": "http://app.com.tc/test/whattoeat/your-spirit-food/"
 		},
 		{
 			"name": "Privacy Policy",
